@@ -11,6 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb989e4d-3e0b-46f1-97eb-21e044877e32" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/html-and-css-course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/html-and-css-course.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +23,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -42,13 +43,14 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/edgeledger_website" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/edgeledger_website" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/hotel-website" />
     </key>
@@ -74,7 +76,9 @@
       <workItem from="1600291996349" duration="10483000" />
       <workItem from="1600630100477" duration="2175000" />
       <workItem from="1600933018090" duration="4283000" />
-      <workItem from="1601107315980" duration="4666000" />
+      <workItem from="1601107315980" duration="15288000" />
+      <workItem from="1601344393583" duration="2666000" />
+      <workItem from="1601477864096" duration="3998000" />
     </task>
     <servers />
   </component>
@@ -91,12 +95,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600630453490">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601345771076">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1600296675116" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1601345771076" />
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1600630453490" />
     <state x="443" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601119491372">
       <screen x="0" y="0" width="1440" height="900" />
