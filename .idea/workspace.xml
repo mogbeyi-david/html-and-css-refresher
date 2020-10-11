@@ -12,6 +12,17 @@
   <component name="ChangeListManager">
     <list default="true" id="eb989e4d-3e0b-46f1-97eb-21e044877e32" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-grid/images/articles/ent1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/news-grid/img/articles/ent1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-grid/images/articles/ent2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/news-grid/img/articles/ent2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-grid/images/articles/sports1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/news-grid/img/articles/sports1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-grid/images/articles/tech1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/news-grid/img/articles/tech1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-grid/images/articles/tech2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/news-grid/img/articles/tech2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-grid/images/featured.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/news-grid/img/featured.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-grid/images/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/news-grid/img/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-grid/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/news-grid/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-grid/images/logo.psd" beforeDir="false" afterPath="$PROJECT_DIR$/news-grid/img/logo.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-grid/images/logo_light.png" beforeDir="false" afterPath="$PROJECT_DIR$/news-grid/img/logo_light.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-grid/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/news-grid/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +94,9 @@
       <workItem from="1601107315980" duration="15288000" />
       <workItem from="1601344393583" duration="2666000" />
       <workItem from="1601477864096" duration="7692000" />
-      <workItem from="1601662160442" duration="8468000" />
+      <workItem from="1601662160442" duration="15596000" />
+      <workItem from="1601921462102" duration="2312000" />
+      <workItem from="1602351017696" duration="70000" />
     </task>
     <servers />
   </component>
